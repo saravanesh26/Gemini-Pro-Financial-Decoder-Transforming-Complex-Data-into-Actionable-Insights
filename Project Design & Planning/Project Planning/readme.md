@@ -1,5 +1,6 @@
 👥 Team Responsibilities
 A clear division of labor is crucial for efficient project execution. Each team member will be assigned specific modules and responsibilities, fostering ownership and specialized expertise:
+
 •	Team Lead (Saravanesh 23BCE8183)
 (LLM Configuration + Prompt Generation) - llm_handler.py
 o	Responsibilities: Focuses on optimizing the interaction with the Gemini Pro model. This includes crafting effective prompts to elicit accurate and insightful financial analyses, managing API calls, and handling model responses. Explores techniques for context window management and error handling specific to the LLM.
