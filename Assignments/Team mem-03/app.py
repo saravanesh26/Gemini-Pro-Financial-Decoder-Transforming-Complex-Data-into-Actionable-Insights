@@ -11,11 +11,10 @@ st.set_page_config(
 )
 
 # UI Styling
-st.markdown("""
-<style>
-    /* Add minimal layout styling here if needed */
-</style>
-""", unsafe_allow_html=True)
+from styles import load_css
+
+# Inject CSS
+st.markdown(load_css(), unsafe_allow_html=True)
 
 # Header
 st.markdown("""
