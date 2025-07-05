@@ -4,7 +4,7 @@
 
 👉 https://financedecoder1.streamlit.app/
 
-# Inintial Interface
+# Initial Interface
 ![image](https://github.com/user-attachments/assets/d6705b63-2ac1-4bdc-9971-e94994c15e23)
 
 # Final Analysis
